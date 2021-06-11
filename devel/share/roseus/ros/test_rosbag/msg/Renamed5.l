@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/test_rosbag/share/roseus/ros/test_rosbag/msg/Renamed5.l

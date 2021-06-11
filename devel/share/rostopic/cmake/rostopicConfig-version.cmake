@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/rostopic/share/rostopic/cmake/rostopicConfig-version.cmake

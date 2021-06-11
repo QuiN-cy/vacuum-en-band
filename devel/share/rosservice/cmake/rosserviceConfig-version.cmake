@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/rosservice/share/rosservice/cmake/rosserviceConfig-version.cmake

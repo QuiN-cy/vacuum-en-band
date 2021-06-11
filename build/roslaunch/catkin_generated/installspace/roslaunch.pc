@@ -1,0 +1,8 @@
+prefix=/home/student/rosws/install
+
+Name: roslaunch
+Description: Description of roslaunch
+Version: 1.15.11
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

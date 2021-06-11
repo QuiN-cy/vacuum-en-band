@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/test_rosservice/share/roseus/ros/test_rosservice/manifest.l

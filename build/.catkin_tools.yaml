@@ -1,0 +1,6 @@
+devel_space: /home/student/rosws/devel
+install: false
+install_space: /home/student/rosws/install
+profile: default
+source_space: /home/student/rosws/src
+workspace: /home/student/rosws

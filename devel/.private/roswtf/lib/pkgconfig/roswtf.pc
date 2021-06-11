@@ -1,0 +1,8 @@
+prefix=/home/student/rosws/devel/.private/roswtf
+
+Name: roswtf
+Description: Description of roswtf
+Version: 1.15.11
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+ros_comm-noetic-devel/tools/rosnode
+/home/student/rosws/devel/.private/rosnode/cmake.lock /home/student/rosws/devel/./cmake.lock
+/home/student/rosws/devel/.private/rosnode/bin/cmake.lock /home/student/rosws/devel/bin/cmake.lock
+/home/student/rosws/devel/.private/rosnode/bin/rosnode /home/student/rosws/devel/bin/rosnode
+/home/student/rosws/devel/.private/rosnode/lib/pkgconfig/rosnode.pc /home/student/rosws/devel/lib/pkgconfig/rosnode.pc
+/home/student/rosws/devel/.private/rosnode/lib/python2.7/dist-packages/rosnode/__init__.py /home/student/rosws/devel/lib/python2.7/dist-packages/rosnode/__init__.py
+/home/student/rosws/devel/.private/rosnode/share/rosnode/cmake/rosnodeConfig-version.cmake /home/student/rosws/devel/share/rosnode/cmake/rosnodeConfig-version.cmake
+/home/student/rosws/devel/.private/rosnode/share/rosnode/cmake/rosnodeConfig.cmake /home/student/rosws/devel/share/rosnode/cmake/rosnodeConfig.cmake

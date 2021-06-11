@@ -1,0 +1,5 @@
+Symlinking /home/student/rosws/devel/bin/rosservice
+Symlinking /home/student/rosws/devel/lib/pkgconfig/rosservice.pc
+Symlinking /home/student/rosws/devel/lib/python2.7/dist-packages/rosservice/__init__.py
+Symlinking /home/student/rosws/devel/share/rosservice/cmake/rosserviceConfig-version.cmake
+Symlinking /home/student/rosws/devel/share/rosservice/cmake/rosserviceConfig.cmake

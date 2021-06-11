@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/rospy/lib/python2.7/dist-packages/rospy/__init__.py

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/student/rosws/devel/.private/std_msgs/setup.sh

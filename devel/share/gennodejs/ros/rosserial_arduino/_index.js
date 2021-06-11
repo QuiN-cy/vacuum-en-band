@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/rosserial_arduino/share/gennodejs/ros/rosserial_arduino/_index.js

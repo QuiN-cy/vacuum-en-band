@@ -1,0 +1,8 @@
+ros_comm-noetic-devel/tools/rosmaster
+/home/student/rosws/devel/.private/rosmaster/cmake.lock /home/student/rosws/devel/./cmake.lock
+/home/student/rosws/devel/.private/rosmaster/bin/cmake.lock /home/student/rosws/devel/bin/cmake.lock
+/home/student/rosws/devel/.private/rosmaster/bin/rosmaster /home/student/rosws/devel/bin/rosmaster
+/home/student/rosws/devel/.private/rosmaster/lib/pkgconfig/rosmaster.pc /home/student/rosws/devel/lib/pkgconfig/rosmaster.pc
+/home/student/rosws/devel/.private/rosmaster/lib/python2.7/dist-packages/rosmaster/__init__.py /home/student/rosws/devel/lib/python2.7/dist-packages/rosmaster/__init__.py
+/home/student/rosws/devel/.private/rosmaster/share/rosmaster/cmake/rosmasterConfig-version.cmake /home/student/rosws/devel/share/rosmaster/cmake/rosmasterConfig-version.cmake
+/home/student/rosws/devel/.private/rosmaster/share/rosmaster/cmake/rosmasterConfig.cmake /home/student/rosws/devel/share/rosmaster/cmake/rosmasterConfig.cmake

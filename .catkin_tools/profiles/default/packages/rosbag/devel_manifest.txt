@@ -1,0 +1,12 @@
+ros_comm-noetic-devel/tools/rosbag
+/home/student/rosws/devel/.private/rosbag/cmake.lock /home/student/rosws/devel/./cmake.lock
+/home/student/rosws/devel/.private/rosbag/bin/cmake.lock /home/student/rosws/devel/bin/cmake.lock
+/home/student/rosws/devel/.private/rosbag/bin/rosbag /home/student/rosws/devel/bin/rosbag
+/home/student/rosws/devel/.private/rosbag/lib/librosbag.so /home/student/rosws/devel/lib/librosbag.so
+/home/student/rosws/devel/.private/rosbag/lib/pkgconfig/rosbag.pc /home/student/rosws/devel/lib/pkgconfig/rosbag.pc
+/home/student/rosws/devel/.private/rosbag/lib/python2.7/dist-packages/rosbag/__init__.py /home/student/rosws/devel/lib/python2.7/dist-packages/rosbag/__init__.py
+/home/student/rosws/devel/.private/rosbag/lib/rosbag/play /home/student/rosws/devel/lib/rosbag/play
+/home/student/rosws/devel/.private/rosbag/lib/rosbag/encrypt /home/student/rosws/devel/lib/rosbag/encrypt
+/home/student/rosws/devel/.private/rosbag/lib/rosbag/record /home/student/rosws/devel/lib/rosbag/record
+/home/student/rosws/devel/.private/rosbag/share/rosbag/cmake/rosbagConfig.cmake /home/student/rosws/devel/share/rosbag/cmake/rosbagConfig.cmake
+/home/student/rosws/devel/.private/rosbag/share/rosbag/cmake/rosbagConfig-version.cmake /home/student/rosws/devel/share/rosbag/cmake/rosbagConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/std_msgs/share/roseus/ros/std_msgs/msg/ColorRGBA.l

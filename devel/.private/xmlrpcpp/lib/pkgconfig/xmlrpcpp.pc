@@ -1,0 +1,8 @@
+prefix=/home/student/rosws/devel/.private/xmlrpcpp
+
+Name: xmlrpcpp
+Description: Description of xmlrpcpp
+Version: 1.15.11
+Cflags: -I/home/student/rosws/src/ros_comm-noetic-devel/utilities/xmlrpcpp/include
+Libs: -L${prefix}/lib -lxmlrpcpp
+Requires: cpp_common rostime

@@ -1,0 +1,6 @@
+Symlinking /home/student/rosws/devel/bin/rostest
+Symlinking /home/student/rosws/devel/lib/pkgconfig/rostest.pc
+Symlinking /home/student/rosws/devel/lib/python2.7/dist-packages/rostest/__init__.py
+Symlinking /home/student/rosws/devel/share/rostest/cmake/rostestConfig-version.cmake
+Symlinking /home/student/rosws/devel/share/rostest/cmake/rostest-extras.cmake
+Symlinking /home/student/rosws/devel/share/rostest/cmake/rostestConfig.cmake

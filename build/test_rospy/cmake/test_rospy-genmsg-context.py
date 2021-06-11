@@ -1,0 +1,11 @@
+# generated from genmsg/cmake/pkg-genmsg.context.in
+
+messages_str = "/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/msg/ArrayVal.msg;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/msg/EmbedTest.msg;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/msg/Empty.msg;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/msg/Floats.msg;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/msg/HeaderHeaderVal.msg;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/msg/HeaderVal.msg;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/msg/PythonKeyword.msg;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/msg/TestConstants.msg;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/msg/TestFixedArray.msg;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/msg/TransitiveImport.msg;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/msg/TransitiveMsg1.msg;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/msg/TransitiveMsg2.msg;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/msg/Val.msg"
+services_str = "/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/srv/ConstantsMultiplex.srv;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/srv/EmptyReqSrv.srv;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/srv/EmptyRespSrv.srv;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/srv/EmptySrv.srv;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/srv/ListReturn.srv;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/srv/MultipleAddTwoInts.srv;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/srv/StringString.srv;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/srv/TransitiveSrv.srv"
+pkg_name = "test_rospy"
+dependencies_str = "std_msgs;test_rosmaster"
+langs = "gencpp;geneus;genlisp;gennodejs;genpy"
+dep_include_paths_str = "test_rospy;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rospy/msg;std_msgs;/home/student/rosws/src/std_msgs-kinetic-devel/msg;test_rosmaster;/home/student/rosws/src/ros_comm-noetic-devel/test/test_rosmaster/msg"
+PYTHON_EXECUTABLE = "/usr/bin/python2"
+package_has_static_sources = '' == 'TRUE'
+genmsg_check_deps_script = "/opt/ros/melodic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py"

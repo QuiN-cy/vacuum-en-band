@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/rosserial_server/lib/pkgconfig/rosserial_server.pc

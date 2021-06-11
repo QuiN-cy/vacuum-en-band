@@ -1,0 +1,11 @@
+Symlinking /home/student/rosws/devel/bin/roslaunch-logs
+Symlinking /home/student/rosws/devel/bin/roscore
+Symlinking /home/student/rosws/devel/bin/roslaunch
+Symlinking /home/student/rosws/devel/bin/roslaunch-complete
+Symlinking /home/student/rosws/devel/bin/roslaunch-deps
+Symlinking /home/student/rosws/devel/etc/catkin/profile.d/10.roslaunch.sh
+Symlinking /home/student/rosws/devel/lib/pkgconfig/roslaunch.pc
+Symlinking /home/student/rosws/devel/lib/python2.7/dist-packages/roslaunch/__init__.py
+Symlinking /home/student/rosws/devel/share/roslaunch/cmake/roslaunchConfig.cmake
+Symlinking /home/student/rosws/devel/share/roslaunch/cmake/roslaunch-extras.cmake
+Symlinking /home/student/rosws/devel/share/roslaunch/cmake/roslaunchConfig-version.cmake

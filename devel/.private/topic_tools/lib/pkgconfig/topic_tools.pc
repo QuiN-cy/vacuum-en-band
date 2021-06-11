@@ -1,0 +1,8 @@
+prefix=/home/student/rosws/devel/.private/topic_tools
+
+Name: topic_tools
+Description: Description of topic_tools
+Version: 1.15.11
+Cflags: -I/home/student/rosws/devel/.private/topic_tools/include -I/home/student/rosws/src/ros_comm-noetic-devel/tools/topic_tools/include
+Libs: -L${prefix}/lib -ltopic_tools
+Requires: message_runtime rosconsole roscpp std_msgs xmlrpcpp

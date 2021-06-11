@@ -1,0 +1,4 @@
+Symlinking /home/student/rosws/devel/lib/pkgconfig/rosserial_python.pc
+Symlinking /home/student/rosws/devel/lib/python2.7/dist-packages/rosserial_python/__init__.py
+Symlinking /home/student/rosws/devel/share/rosserial_python/cmake/rosserial_pythonConfig.cmake
+Symlinking /home/student/rosws/devel/share/rosserial_python/cmake/rosserial_pythonConfig-version.cmake

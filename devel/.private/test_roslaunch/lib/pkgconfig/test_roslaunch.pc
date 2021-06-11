@@ -1,0 +1,8 @@
+prefix=/home/student/rosws/devel/.private/test_roslaunch
+
+Name: test_roslaunch
+Description: Description of test_roslaunch
+Version: 1.15.11
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

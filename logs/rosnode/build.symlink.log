@@ -1,0 +1,5 @@
+Symlinking /home/student/rosws/devel/bin/rosnode
+Symlinking /home/student/rosws/devel/lib/pkgconfig/rosnode.pc
+Symlinking /home/student/rosws/devel/lib/python2.7/dist-packages/rosnode/__init__.py
+Symlinking /home/student/rosws/devel/share/rosnode/cmake/rosnodeConfig-version.cmake
+Symlinking /home/student/rosws/devel/share/rosnode/cmake/rosnodeConfig.cmake

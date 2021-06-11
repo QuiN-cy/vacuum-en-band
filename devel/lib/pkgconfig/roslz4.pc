@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/roslz4/lib/pkgconfig/roslz4.pc

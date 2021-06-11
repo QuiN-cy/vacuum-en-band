@@ -1,0 +1,5 @@
+ros_comm-noetic-devel/test/test_rosbag_storage
+/home/student/rosws/devel/.private/test_rosbag_storage/cmake.lock /home/student/rosws/devel/./cmake.lock
+/home/student/rosws/devel/.private/test_rosbag_storage/lib/pkgconfig/test_rosbag_storage.pc /home/student/rosws/devel/lib/pkgconfig/test_rosbag_storage.pc
+/home/student/rosws/devel/.private/test_rosbag_storage/share/test_rosbag_storage/cmake/test_rosbag_storageConfig.cmake /home/student/rosws/devel/share/test_rosbag_storage/cmake/test_rosbag_storageConfig.cmake
+/home/student/rosws/devel/.private/test_rosbag_storage/share/test_rosbag_storage/cmake/test_rosbag_storageConfig-version.cmake /home/student/rosws/devel/share/test_rosbag_storage/cmake/test_rosbag_storageConfig-version.cmake

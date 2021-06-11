@@ -1,0 +1,2 @@
+/home/student/rosws/devel/./cmake.lock 47
+/home/student/rosws/devel/bin/cmake.lock 11

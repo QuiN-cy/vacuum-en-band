@@ -1,0 +1,8 @@
+ros_comm-noetic-devel/tools/rosservice
+/home/student/rosws/devel/.private/rosservice/cmake.lock /home/student/rosws/devel/./cmake.lock
+/home/student/rosws/devel/.private/rosservice/bin/rosservice /home/student/rosws/devel/bin/rosservice
+/home/student/rosws/devel/.private/rosservice/bin/cmake.lock /home/student/rosws/devel/bin/cmake.lock
+/home/student/rosws/devel/.private/rosservice/lib/pkgconfig/rosservice.pc /home/student/rosws/devel/lib/pkgconfig/rosservice.pc
+/home/student/rosws/devel/.private/rosservice/lib/python2.7/dist-packages/rosservice/__init__.py /home/student/rosws/devel/lib/python2.7/dist-packages/rosservice/__init__.py
+/home/student/rosws/devel/.private/rosservice/share/rosservice/cmake/rosserviceConfig-version.cmake /home/student/rosws/devel/share/rosservice/cmake/rosserviceConfig-version.cmake
+/home/student/rosws/devel/.private/rosservice/share/rosservice/cmake/rosserviceConfig.cmake /home/student/rosws/devel/share/rosservice/cmake/rosserviceConfig.cmake

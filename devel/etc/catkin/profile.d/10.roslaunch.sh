@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/roslaunch/etc/catkin/profile.d/10.roslaunch.sh

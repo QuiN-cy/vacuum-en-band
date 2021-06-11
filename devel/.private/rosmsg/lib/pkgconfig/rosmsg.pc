@@ -1,0 +1,8 @@
+prefix=/home/student/rosws/devel/.private/rosmsg
+
+Name: rosmsg
+Description: Description of rosmsg
+Version: 1.15.11
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

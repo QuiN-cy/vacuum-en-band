@@ -1,0 +1,8 @@
+prefix=/home/student/rosws/devel/.private/test_rosservice
+
+Name: test_rosservice
+Description: Description of test_rosservice
+Version: 1.15.11
+Cflags: -I/home/student/rosws/devel/.private/test_rosservice/include
+Libs: -L${prefix}/lib 
+Requires: 

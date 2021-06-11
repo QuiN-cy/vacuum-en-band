@@ -1,0 +1,9 @@
+Symlinking /home/student/rosws/devel/bin/rosbag
+Symlinking /home/student/rosws/devel/lib/librosbag.so
+Symlinking /home/student/rosws/devel/lib/pkgconfig/rosbag.pc
+Symlinking /home/student/rosws/devel/lib/python2.7/dist-packages/rosbag/__init__.py
+Symlinking /home/student/rosws/devel/lib/rosbag/play
+Symlinking /home/student/rosws/devel/lib/rosbag/encrypt
+Symlinking /home/student/rosws/devel/lib/rosbag/record
+Symlinking /home/student/rosws/devel/share/rosbag/cmake/rosbagConfig.cmake
+Symlinking /home/student/rosws/devel/share/rosbag/cmake/rosbagConfig-version.cmake

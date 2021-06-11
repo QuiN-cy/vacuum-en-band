@@ -1,0 +1,6 @@
+ros_comm-noetic-devel/tools/rosout
+/home/student/rosws/devel/.private/rosout/cmake.lock /home/student/rosws/devel/./cmake.lock
+/home/student/rosws/devel/.private/rosout/lib/rosout/rosout /home/student/rosws/devel/lib/rosout/rosout
+/home/student/rosws/devel/.private/rosout/lib/pkgconfig/rosout.pc /home/student/rosws/devel/lib/pkgconfig/rosout.pc
+/home/student/rosws/devel/.private/rosout/share/rosout/cmake/rosoutConfig-version.cmake /home/student/rosws/devel/share/rosout/cmake/rosoutConfig-version.cmake
+/home/student/rosws/devel/.private/rosout/share/rosout/cmake/rosoutConfig.cmake /home/student/rosws/devel/share/rosout/cmake/rosoutConfig.cmake

@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/roscpp/share/gennodejs/ros/roscpp/msg/_index.js

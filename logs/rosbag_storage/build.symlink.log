@@ -1,0 +1,5 @@
+Symlinking /home/student/rosws/devel/lib/librosbag_default_encryption_plugins.so
+Symlinking /home/student/rosws/devel/lib/librosbag_storage.so
+Symlinking /home/student/rosws/devel/lib/pkgconfig/rosbag_storage.pc
+Symlinking /home/student/rosws/devel/share/rosbag_storage/cmake/rosbag_storageConfig-version.cmake
+Symlinking /home/student/rosws/devel/share/rosbag_storage/cmake/rosbag_storageConfig.cmake

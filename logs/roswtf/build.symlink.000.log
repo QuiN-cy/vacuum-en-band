@@ -1,0 +1,5 @@
+Symlinking /home/student/rosws/devel/bin/roswtf
+Symlinking /home/student/rosws/devel/lib/pkgconfig/roswtf.pc
+Symlinking /home/student/rosws/devel/lib/python2.7/dist-packages/roswtf/__init__.py
+Symlinking /home/student/rosws/devel/share/roswtf/cmake/roswtfConfig.cmake
+Symlinking /home/student/rosws/devel/share/roswtf/cmake/roswtfConfig-version.cmake

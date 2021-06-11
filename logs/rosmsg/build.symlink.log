@@ -1,0 +1,7 @@
+Symlinking /home/student/rosws/devel/bin/rossrv
+Symlinking /home/student/rosws/devel/bin/rosmsg-proto
+Symlinking /home/student/rosws/devel/bin/rosmsg
+Symlinking /home/student/rosws/devel/lib/pkgconfig/rosmsg.pc
+Symlinking /home/student/rosws/devel/lib/python2.7/dist-packages/rosmsg/__init__.py
+Symlinking /home/student/rosws/devel/share/rosmsg/cmake/rosmsgConfig.cmake
+Symlinking /home/student/rosws/devel/share/rosmsg/cmake/rosmsgConfig-version.cmake

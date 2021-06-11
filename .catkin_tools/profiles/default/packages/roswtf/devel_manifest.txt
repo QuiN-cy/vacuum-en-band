@@ -1,0 +1,8 @@
+ros_comm-noetic-devel/utilities/roswtf
+/home/student/rosws/devel/.private/roswtf/cmake.lock /home/student/rosws/devel/./cmake.lock
+/home/student/rosws/devel/.private/roswtf/bin/roswtf /home/student/rosws/devel/bin/roswtf
+/home/student/rosws/devel/.private/roswtf/bin/cmake.lock /home/student/rosws/devel/bin/cmake.lock
+/home/student/rosws/devel/.private/roswtf/lib/pkgconfig/roswtf.pc /home/student/rosws/devel/lib/pkgconfig/roswtf.pc
+/home/student/rosws/devel/.private/roswtf/lib/python2.7/dist-packages/roswtf/__init__.py /home/student/rosws/devel/lib/python2.7/dist-packages/roswtf/__init__.py
+/home/student/rosws/devel/.private/roswtf/share/roswtf/cmake/roswtfConfig.cmake /home/student/rosws/devel/share/roswtf/cmake/roswtfConfig.cmake
+/home/student/rosws/devel/.private/roswtf/share/roswtf/cmake/roswtfConfig-version.cmake /home/student/rosws/devel/share/roswtf/cmake/roswtfConfig-version.cmake

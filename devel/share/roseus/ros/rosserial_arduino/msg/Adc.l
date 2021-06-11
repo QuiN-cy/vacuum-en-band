@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/rosserial_arduino/share/roseus/ros/rosserial_arduino/msg/Adc.l

@@ -1,0 +1,6 @@
+rosserial/rosserial_client
+/home/student/rosws/devel/.private/rosserial_client/cmake.lock /home/student/rosws/devel/./cmake.lock
+/home/student/rosws/devel/.private/rosserial_client/lib/pkgconfig/rosserial_client.pc /home/student/rosws/devel/lib/pkgconfig/rosserial_client.pc
+/home/student/rosws/devel/.private/rosserial_client/lib/python2.7/dist-packages/rosserial_client/__init__.py /home/student/rosws/devel/lib/python2.7/dist-packages/rosserial_client/__init__.py
+/home/student/rosws/devel/.private/rosserial_client/share/rosserial_client/cmake/rosserial_clientConfig.cmake /home/student/rosws/devel/share/rosserial_client/cmake/rosserial_clientConfig.cmake
+/home/student/rosws/devel/.private/rosserial_client/share/rosserial_client/cmake/rosserial_clientConfig-version.cmake /home/student/rosws/devel/share/rosserial_client/cmake/rosserial_clientConfig-version.cmake

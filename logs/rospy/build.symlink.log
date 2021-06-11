@@ -1,0 +1,5 @@
+Symlinking /home/student/rosws/devel/bin/rosconsole
+Symlinking /home/student/rosws/devel/lib/pkgconfig/rospy.pc
+Symlinking /home/student/rosws/devel/lib/python2.7/dist-packages/rospy/__init__.py
+Symlinking /home/student/rosws/devel/share/rospy/cmake/rospyConfig-version.cmake
+Symlinking /home/student/rosws/devel/share/rospy/cmake/rospyConfig.cmake

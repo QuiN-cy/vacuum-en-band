@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/rosbag/share/rosbag/cmake/rosbagConfig.cmake

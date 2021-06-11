@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/test_rospy/share/roseus/ros/test_rospy/msg/TransitiveMsg2.l

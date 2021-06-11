@@ -1,0 +1,5 @@
+Symlinking /home/student/rosws/devel/bin/rosparam
+Symlinking /home/student/rosws/devel/lib/pkgconfig/rosparam.pc
+Symlinking /home/student/rosws/devel/lib/python2.7/dist-packages/rosparam/__init__.py
+Symlinking /home/student/rosws/devel/share/rosparam/cmake/rosparamConfig-version.cmake
+Symlinking /home/student/rosws/devel/share/rosparam/cmake/rosparamConfig.cmake

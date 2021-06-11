@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/student/rosws/devel/.private/test_roslaunch/setup.sh

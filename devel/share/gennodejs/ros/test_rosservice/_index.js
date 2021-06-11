@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/test_rosservice/share/gennodejs/ros/test_rosservice/_index.js

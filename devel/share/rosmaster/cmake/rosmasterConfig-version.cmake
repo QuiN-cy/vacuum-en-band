@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/rosmaster/share/rosmaster/cmake/rosmasterConfig-version.cmake

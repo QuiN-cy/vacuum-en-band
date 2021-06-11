@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/rosout/share/rosout/cmake/rosoutConfig-version.cmake

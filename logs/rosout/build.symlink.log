@@ -1,0 +1,4 @@
+Symlinking /home/student/rosws/devel/lib/rosout/rosout
+Symlinking /home/student/rosws/devel/lib/pkgconfig/rosout.pc
+Symlinking /home/student/rosws/devel/share/rosout/cmake/rosoutConfig-version.cmake
+Symlinking /home/student/rosws/devel/share/rosout/cmake/rosoutConfig.cmake

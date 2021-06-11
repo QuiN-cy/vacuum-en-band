@@ -1,0 +1,8 @@
+ros_comm-noetic-devel/utilities/roslz4
+/home/student/rosws/devel/.private/roslz4/cmake.lock /home/student/rosws/devel/./cmake.lock
+/home/student/rosws/devel/.private/roslz4/lib/libroslz4.so /home/student/rosws/devel/lib/libroslz4.so
+/home/student/rosws/devel/.private/roslz4/lib/pkgconfig/roslz4.pc /home/student/rosws/devel/lib/pkgconfig/roslz4.pc
+/home/student/rosws/devel/.private/roslz4/lib/python2.7/dist-packages/roslz4/_roslz4.so /home/student/rosws/devel/lib/python2.7/dist-packages/roslz4/_roslz4.so
+/home/student/rosws/devel/.private/roslz4/lib/python2.7/dist-packages/roslz4/__init__.py /home/student/rosws/devel/lib/python2.7/dist-packages/roslz4/__init__.py
+/home/student/rosws/devel/.private/roslz4/share/roslz4/cmake/roslz4Config-version.cmake /home/student/rosws/devel/share/roslz4/cmake/roslz4Config-version.cmake
+/home/student/rosws/devel/.private/roslz4/share/roslz4/cmake/roslz4Config.cmake /home/student/rosws/devel/share/roslz4/cmake/roslz4Config.cmake

@@ -1,0 +1,8 @@
+prefix=/home/student/rosws/install
+
+Name: rosnode
+Description: Description of rosnode
+Version: 1.15.11
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

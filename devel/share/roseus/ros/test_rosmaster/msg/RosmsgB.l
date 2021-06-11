@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/test_rosmaster/share/roseus/ros/test_rosmaster/msg/RosmsgB.l

@@ -1,0 +1,6 @@
+Symlinking /home/student/rosws/devel/bin/rosgraph
+Symlinking /home/student/rosws/devel/bin/cmake.lock
+Symlinking /home/student/rosws/devel/lib/pkgconfig/rosgraph.pc
+Symlinking /home/student/rosws/devel/lib/python2.7/dist-packages/rosgraph/__init__.py
+Symlinking /home/student/rosws/devel/share/rosgraph/cmake/rosgraphConfig-version.cmake
+Symlinking /home/student/rosws/devel/share/rosgraph/cmake/rosgraphConfig.cmake

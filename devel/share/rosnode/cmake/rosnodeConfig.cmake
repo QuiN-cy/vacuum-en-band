@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/rosnode/share/rosnode/cmake/rosnodeConfig.cmake

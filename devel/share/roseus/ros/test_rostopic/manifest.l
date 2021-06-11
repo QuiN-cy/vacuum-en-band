@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/test_rostopic/share/roseus/ros/test_rostopic/manifest.l

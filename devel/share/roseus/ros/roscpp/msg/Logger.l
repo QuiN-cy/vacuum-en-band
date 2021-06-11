@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/roscpp/share/roseus/ros/roscpp/msg/Logger.l

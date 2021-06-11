@@ -1,0 +1,8 @@
+ros_comm-noetic-devel/clients/rospy
+/home/student/rosws/devel/.private/rospy/cmake.lock /home/student/rosws/devel/./cmake.lock
+/home/student/rosws/devel/.private/rospy/bin/cmake.lock /home/student/rosws/devel/bin/cmake.lock
+/home/student/rosws/devel/.private/rospy/bin/rosconsole /home/student/rosws/devel/bin/rosconsole
+/home/student/rosws/devel/.private/rospy/lib/pkgconfig/rospy.pc /home/student/rosws/devel/lib/pkgconfig/rospy.pc
+/home/student/rosws/devel/.private/rospy/lib/python2.7/dist-packages/rospy/__init__.py /home/student/rosws/devel/lib/python2.7/dist-packages/rospy/__init__.py
+/home/student/rosws/devel/.private/rospy/share/rospy/cmake/rospyConfig-version.cmake /home/student/rosws/devel/share/rospy/cmake/rospyConfig-version.cmake
+/home/student/rosws/devel/.private/rospy/share/rospy/cmake/rospyConfig.cmake /home/student/rosws/devel/share/rospy/cmake/rospyConfig.cmake

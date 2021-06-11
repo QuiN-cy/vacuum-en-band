@@ -1,0 +1,5 @@
+Symlinking /home/student/rosws/devel/lib/libmessage_filters.so
+Symlinking /home/student/rosws/devel/lib/pkgconfig/message_filters.pc
+Symlinking /home/student/rosws/devel/lib/python2.7/dist-packages/message_filters/__init__.py
+Symlinking /home/student/rosws/devel/share/message_filters/cmake/message_filtersConfig.cmake
+Symlinking /home/student/rosws/devel/share/message_filters/cmake/message_filtersConfig-version.cmake

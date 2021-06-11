@@ -1,0 +1,1 @@
+/home/student/rosws/devel/.private/rosservice/lib/pkgconfig/rosservice.pc

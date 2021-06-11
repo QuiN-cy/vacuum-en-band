@@ -1,0 +1,8 @@
+prefix=/home/student/rosws/install
+
+Name: rosparam
+Description: Description of rosparam
+Version: 1.15.11
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
